@@ -1,14 +1,15 @@
-# Conexão sustentavel: Um clique uma árvore 
-projeto para o concurso agrinho 2025
+# 🌱 Conexão Sustentável: Clique e Plante uma Árvore
 
-Este é um jogo desenvolvido como parte do projeto **Agrinho 2025**, com foco em **educação ambiental** e **programação criativa**. O objetivo é conscientizar sobre o cuidado com o meio ambiente de forma interativa e divertida.
+**Projeto para o Concurso Agrinho 2025**
+
+Este é um jogo desenvolvido como parte do **Concurso Agrinho 2025**, com foco na *conexão do campo com a cidade* e *programação criativa*. O objetivo é conscientizar sobre o cuidado com o meio ambiente, plantando árvores no campo e na cidade de forma interativa e divertida.
 
 ---
 
 ## 🎮 Como Jogar
 
 - Use as **setas do teclado** ⬅️ ➡️ para mover a semente.
-- Plante árvores fazendo a semente cair **em cima da terra**.
+- Plante árvores fazendo **a semente** cair em cima da terra.
 - Desvie dos **obstáculos** que caem do céu.
 - A cada árvore plantada, você ganha 1 ponto.
 - Se errar o solo ou bater em um obstáculo, o jogo termina.
@@ -19,7 +20,7 @@ Este é um jogo desenvolvido como parte do projeto **Agrinho 2025**, com foco em
 ## 📁 Arquivos Necessários
 
 - `sketch.js` – código principal do jogo.
-- `fundo_projeto_agrinho.png` – imagem de fundo.
+- `fundo_projeto_agrinho.png` – imagem de fundo de **autoria própria**, criada utilizando o aplicativo **Canva**.
 - `pou.mp3` – música de fundo do jogo.
 - *(opcional)* `index.html` – para rodar fora do editor online.
 
@@ -36,7 +37,7 @@ Este é um jogo desenvolvido como parte do projeto **Agrinho 2025**, com foco em
 
 ## 🎯 Objetivo Educacional
 
-O jogo representa a **plantação de árvores em um ambiente seco**, com obstáculos no caminho. A ideia é incentivar ações sustentáveis e mostrar que, mesmo com dificuldades, é possível fazer a diferença pelo planeta. 🌍
+O jogo representa a **plantação de árvores em ambientes urbanos e rurais**, mostrando os desafios e incentivando a importância da conexão entre campo e cidade. A ideia é reforçar ações sustentáveis e mostrar que, mesmo com obstáculos, é possível contribuir com o meio ambiente. 🌍
 
 ---
 
